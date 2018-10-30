@@ -820,7 +820,7 @@ Tel: 123-456-7890</p>
 .s_TuFormContainerSkin_control-preloader::before {color:#7fccf7;}
 .s_TuFormContainerSkin_control-preloader::after {color:#3899ec;opacity:0;}
 @keyframes s_TuFormContainerSkin_semi-rotate {0%{transform:rotate(180deg);animation-timing-function:ease-out;}45%{transform:rotate(198deg);}55%{transform:rotate(234deg);}100%{transform:rotate(540deg);}}
-@keyframes s_TuFormContainerSkin_inner-rotate {% to{transform:rotate(115deg);opacity:1;}}</style></div></div><style type="text/css" data-styleid="style-ifqtfs8l">.style-ifqtfs8lbg {border:1px solid transparent;background-color:rgba(255, 255, 255, 1);border-radius:0;  }
+@keyframes s_TuFormContainerSkin_inner-rotate {% to{transform:rotate(115deg);opacity:1;}}</style></div></div><style type="text/css" data-styleid="style-ifqtfs8l">.style-ifqtfs8lbg {border:1px solid transparent;background-color:rgba(255, 255, 255, 1);border-radius:0;  /%}
 .style-ifqtfs8linlineContent,.style-ifqtfs8lbg {position:absolute;top:0;right:0;bottom:0;left:0;}</style></div></div><style type="text/css" data-styleid="strc1">.strc1:not([data-mobile-responsive]) > .strc1inlineContent {position:absolute;top:0;right:0;bottom:0;left:0;}
 .strc1[data-mobile-responsive] > .strc1inlineContent {position:relative;}
 .strc1[data-responsive] {display:-ms-grid;display:grid;justify-content:center;grid-template-columns:100%;grid-template-rows:1fr;-ms-grid-columns:100%;-ms-grid-rows:1fr;}
